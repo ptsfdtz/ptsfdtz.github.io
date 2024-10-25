@@ -211,11 +211,11 @@ navbar:
         Me: /about
         Github: https://github.com/ptsfdtz
         Blog: https://ptsfdtz.github.io/
-        Friends: /friends
+        # Friends: /links/
     Links: 
       icon: fa-regular fa-link
       submenus:
-        myNote: https://ptsfdtz.github.io/note/
+        my-Note: https://ptsfdtz.github.io/note/
         Offline-njtech: https://github.com/ptsfdtz/Offline-njtech
         # Link3: /link3
     Friends:
@@ -384,7 +384,7 @@ comment:
 
 # FOOTER >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
 # Docs: https://redefine-docs.ohevan.com/footer
-footer:
+footer: 
   # Show website running time
   runtime: true # show website running time or not
   # Icon in footer, write fontawesome icon code here
