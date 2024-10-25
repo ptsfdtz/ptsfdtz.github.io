@@ -1,7 +1,4 @@
 ---
-title: 友情链接
-layout: links
-comments: true
-sidebar: none
+title: links
+date: 2024-10-25 15:00:08
 ---
-故人江海别，几度隔山川。

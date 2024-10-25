@@ -1,7 +1,9 @@
-# links
-
-蔡建文: 
+- links_category: 想念的人，要常联系
+  has_thumbnail: false
+  list: 
+  - name: 蔡建文
     link: https://github.com/MR-Addict
+    description: 建文，亦师亦友，受益匪浅。
     avatar: https://avatars.githubusercontent.com/u/75357598?s=100&v=4
-    desc: 建文，亦师亦友，受益匪浅。
+    thumbnail: https://avatars.githubusercontent.com/u/75357598?s=100&v=4
 
